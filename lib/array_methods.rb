@@ -1,5 +1,5 @@
 def using_include(array, element)
-  array.indclude?(element)
+  array.includelude?(element)
 end
 
 def using_sort(array)
